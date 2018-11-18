@@ -1,0 +1,10 @@
+ /// ///////////////////////////////////
+        /// private example
+        //PrivateObject _a;
+        ////[TestInitialize()]
+        //public void intialize()
+        //{
+        //    _a = new PrivateObject(_createRandomNumber);
+        //}
+        /// <summary>
+        /// /////////////////////////////////////////////////

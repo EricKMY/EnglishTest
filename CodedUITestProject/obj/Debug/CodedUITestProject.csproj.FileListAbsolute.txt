@@ -1,0 +1,10 @@
+D:\視窗計程式設計\HW_6\EnglishTest\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+D:\視窗計程式設計\HW_6\EnglishTest\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+D:\視窗計程式設計\HW_6\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.csprojResolveAssemblyReference.cache
+D:\視窗計程式設計\HW_6\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+D:\視窗計程式設計\HW_6\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
+F:\EnglishTest\CodedUITestProject\bin\Debug\CodedUITestProject.dll
+F:\EnglishTest\CodedUITestProject\bin\Debug\CodedUITestProject.pdb
+F:\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.csprojResolveAssemblyReference.cache
+F:\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.dll
+F:\EnglishTest\CodedUITestProject\obj\Debug\CodedUITestProject.pdb
